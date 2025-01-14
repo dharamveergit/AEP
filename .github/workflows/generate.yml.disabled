@@ -1,0 +1,50 @@
+name: Generate Index and Roadmap
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: main
+        
+    - name: Verify Repository Contents
+      run: |
+        echo "Current directory contents:"
+        ls -la
+        echo "\nSpec directory contents:"
+        if [ ! -d "spec" ]; then
+          echo "Error: spec directory not found!"
+          ls -la
+          exit 1
+        fi
+        ls -R spec/
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Generate and Commit Changes
+      run: |
+        node scripts/index.js
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add index.json ROADMAP.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "auto: generated index.json and roadmap.md"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
