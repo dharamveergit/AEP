@@ -7,6 +7,7 @@ author: Greg Osuri (@gosuri), Adam Bozanich (@boz)
 discussions-to: https://github.com/ovrclk/aep/issues/1
 created: 2020-03-09
 updated: 2020-03-17
+---
 an issue, and for documenting the design decisions that have gone into Akash. Because the AEPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
 
 For Akash implementers, AEPs are a convenient way to track the progress of their implementation. Ideally, each implementation maintainer would list the AEPs that they have implemented, which gives end users a convenient way to know the current status of a given implementation or library.
