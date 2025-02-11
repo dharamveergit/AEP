@@ -7,15 +7,7 @@ author: Greg Osuri (@gosuri), Adam Bozanich (@boz)
 discussions-to: https://github.com/ovrclk/aep/issues/1
 created: 2020-03-09
 updated: 2020-03-17
----
-
-## What is an AEP?
-
-AEP stands for Akash Enhancement Proposal. An AEP is a design document providing information to the Akash community, or describing a new feature for Akash or its processes or environment. The AEP should provide a concise technical specification of the function and a rationale for the feature. The AEP author is responsible for building consensus within the community and documenting dissenting opinions.
-
-## AEP Rationale
-
-We intend AEPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into Akash. Because the AEPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+an issue, and for documenting the design decisions that have gone into Akash. Because the AEPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
 
 For Akash implementers, AEPs are a convenient way to track the progress of their implementation. Ideally, each implementation maintainer would list the AEPs that they have implemented, which gives end users a convenient way to know the current status of a given implementation or library.
 
