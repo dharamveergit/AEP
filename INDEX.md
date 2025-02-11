@@ -10,14 +10,7 @@
 | [8](spec/aep-8) | Mainnet 1: Security | Final | Standard/Core | 2020-03-10 | 2020-09-25 |  |
 | [9](spec/aep-9) | Trusted Providers | Final | Standard/Core | 2020-03-09 | 2021-02-17 |  |
 | [10](spec/aep-10) | Subsidized Computing Incentive | Draft | Standard/Economics | 2020-04-01 |  |  |
-| [11](spec/aep-11) | Managed Services Market | Draft | Standard/Core | 2020-03-09 |  | 2026-01-01 |
-| [12](spec/aep-12) | Trusted Execution Environment (TEE) | Draft | Standard/Core | 2020-03-17 |  | 2025-06-30 |
-| [13](spec/aep-13) | Mainnet 2: DCX Platform | Final | Standard/Core | 2021-02-03 | 2021-02-17 |  |
-| [14](spec/aep-14) | IBC Interoperability | Final | Standard/Core | 2021-04-10 | 2021-04-24 |  |
-| [15](spec/aep-15) | Persistent Storage | Final | Standard/Core | 2021-04-16 | 2021-04-23 |  |
-| [16](spec/aep-16) | Cloudmos Funding | Final | Meta | 2021-04-16 | 2021-04-23 |  |
-| [17](spec/aep-17) | IP Address Market | Final | Standard/Core | 2022-11-08 | 2022-11-15 |  |
-| [18](spec/aep-18) | Terraform Provider Funding | Final | Meta | 2022-11-28 | 2022-12-05 |  |
+| [11](spec/
 | [19](spec/aep-19) | Open Development Model | Final | Meta | 2022-12-19 | 2023-01-12 |  |
 | [20](spec/aep-20) | Praetor (Provider Client) Funding | Final | Meta | 2023-03-22 | 2023-03-29 |  |
 | [21](spec/aep-21) | Opensourcing Cloudmos by Merger | Final | Meta | 2023-07-31 | 2023-08-15 |  |
