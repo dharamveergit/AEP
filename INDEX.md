@@ -1,27 +1,7 @@
 | AEP | Title | Status | Type | Created | Completed | Estimated |
 | --- | --- | --- | --- | --- | --- | --- |
 | [1](spec/aep-1) | AEP Purpose and Guidelines | Final | Meta | 2020-03-09 |  |  |
-| [2](spec/aep-2) | Decentralized Cloud Exchange Specification | Final | Standard/Core | 2018-03-18 | 2018-07-30 |  |
-| [3](spec/aep-3) | Stack Definition Language Specification | Final | Standard/Interface | 2018-03-18 | 2018-07-30 |  |
-| [4](spec/aep-4) | Testnet: Alpha | Final | Meta | 2019-02-06 | 2019-02-06 |  |
-| [5](spec/aep-5) | AKT: Akash Network Token & Mining Economics | Final | Standard/Economics | 2020-01-02 | 2020-01-31 |  |
-| [6](spec/aep-6) | Cosmos SDK Migration | Final | Standard/Core | 2020-01-09 | 2020-01-29 |  |
-| [7](spec/aep-7) | Incentivized Testnet 1: Akashian Challenge Phase 1 | Final | Meta | 2020-04-23 | 2020-05-22 |  |
-| [8](spec/aep-8) | Mainnet 1: Security | Final | Standard/Core | 2020-03-10 | 2020-09-25 |  |
-| [9](spec/aep-9) | Trusted Providers | Final | Standard/Core | 2020-03-09 | 2021-02-17 |  |
-| [10](spec/aep-10) | Subsidized Computing Incentive | Draft | Standard/Economics | 2020-04-01 |  |  |
-| [11](spec/
-| [19](spec/aep-19) | Open Development Model | Final | Meta | 2022-12-19 | 2023-01-12 |  |
-| [20](spec/aep-20) | Praetor (Provider Client) Funding | Final | Meta | 2023-03-22 | 2023-03-29 |  |
-| [21](spec/aep-21) | Opensourcing Cloudmos by Merger | Final | Meta | 2023-07-31 | 2023-08-15 |  |
-| [22](spec/aep-22) | Akash Network Economics 2.0 (AKT 2.0) | Draft | Standard/Economics | 2023-02-01 |  |  |
-| [23](spec/aep-23) | Multi Currency Support with Stable Payments | Final | Standard/Core | 2023-08-22 | 2023-08-29 |  |
-| [24](spec/aep-24) | GPU Marketplace | Final | Standard/Core | 2023-08-22 | 2023-08-29 |  |
-| [25](spec/aep-25) | Foundation Model Training | Final | Meta | 2023-08-29 | 2024-04-01 |  |
-| [26](spec/aep-26) | Provider Incentives Pilot (PIP) | Final | Meta | 2024-01-08 | 2024-02-09 |  |
-| [27](spec/aep-27) | Opensource Praetor with a Merger | Final | Meta | 2024-03-28 | 2024-04-12 |  |
-| [28](spec/aep-28) | Auto Deployment from VCS | Final | Standard/Interface | 2024-05-01 | 2024-11-04 |  |
-| [29](spec/aep-29) | Verifiable Hardware Provisioning | Final | Standard/Core | 2024-06-27 |  | 2025-07-01 |
+
 | [30](spec/aep-30) | Cosmos SDK v0.47 Migration | Final | Standard/Core | 2024-08-29 |  | 2025-02-28 |
 | [31](spec/aep-31) | Credit Card Payments In Console | Final | Standard/Interface | 2024-08-29 | 2024-11-04 |  |
 | [32](spec/aep-32) | Akash Provider Console 1.0 | Draft | Standard/Interface | 2024-12-01 |  | 2025-01-30 |
