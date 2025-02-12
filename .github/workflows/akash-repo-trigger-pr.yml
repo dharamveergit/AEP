@@ -15,5 +15,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.WORKFLOW_PAT }} # Need a PAT with repo scope
-          repository: https://github.com/dharamveergit/akashnetworkwebsite # Replace with your docs repo
+          repository: dharamveergit/akashnetworkwebsite # Just owner/repo format
           event-type: aep-spec-changed
