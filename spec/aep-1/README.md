@@ -10,15 +10,6 @@ updated: 2020-03-17
 ---
  clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be robust and must not complicate the protocol unduly.
 
-## AEP Work Flow
-
-### Shepherding an AEP
-
-Parties involved in the process are you, the champion, or *AEP author*, the [*AEP editors*](#aep-editors), and the *Akash Core Developers*.
-
-Before you begin writing a formal AEP, you should vet your idea. Ask the Akash community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion in the [Akash Discussion Board](https://github.com/orgs/akash-network/discussions) and if there is significant support from the community (in terms of the quality and quantity of discussion), present the AEP live at the Steering Committee meeting. The guidelines for which AEPs will be chosen for discussion at the Steering Committee meeting are outlined in the agenda [here](https://github.com/akash-network/community/tree/main/committee-steering)
-
-In addition to making sure your idea is original, it will be your role as the author to make your concept clear to reviewers and interested parties, as well as inviting editors, developers, and community to give feedback. You should try and gauge whether the interest in your AEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your AEP from moving past the Draft stage.
 
 ### Core AEPs
 
