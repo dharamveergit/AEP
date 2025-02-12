@@ -25,25 +25,7 @@ Each status change is requested by the AEP author and reviewed by the AEP editor
 * **Idea** -- Once the champion has asked the Akash community whether an idea has any chance of support, they will write a draft AEP as a [pull request]. Consider including an implementation if this will aid people in studying the AEP.
   * :arrow_right: Draft -- If agreeable, AEP editor will assign the AEP a number (generally the issue or PR number related to the AEP) and merge your pull request. The AEP editor will not unreasonably deny an AEP.
   * :x: Draft -- Reasons for denying draft status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing backward compatibility, or not in keeping with the Akash philosophy.
-* **Draft** -- Once the first Draft has been merged, you may submit follow-up pull requests with further changes to your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to be considered for promotion to the next status (ignore this requirement for core AEPs).
-  * :arrow_right: Last Call -- If agreeable, the AEP editor will assign Last Call status and set a review end date (`review-period-end`), normally 14 days later.
-  * :x: Last Call -- A request for Last Call status will be denied if material changes are still expected to be made to the Draft. We hope that AEPs only enter Last Call once, so as to avoid unnecessary noise on the RSS feed.
-* **Last Call** -- This AEP will be listed prominently on the https://aeps.akash.network/ website (subscribe via RSS at [last-call.xml](/last-call.xml)).
-  * :x: -- The Last Call, which results in material changes or substantial unaddressed technical complaints, will cause the AEP to revert to Draft.
-  * :arrow_right: Accepted (Core AEPs only) -- A successful Last Call without material changes or unaddressed technical complaints will become Accepted.
-  * :arrow_right: Final (Non-Core AEPs) -- A successful Last Call without material changes or unaddressed technical complaints will become Final.
-* **Accepted (Core AEPs only)** -- This status signals that material changes are unlikely, and Akash client developers should consider this AEP for inclusion. Their process for deciding whether to encode it into their clients as part of a hard fork is not part of the AEP process.
-  * :arrow_right: Draft -- The Core Devs can decide to move this AEP back to the Draft status at their discretion. E.g., a major, but correctable, a flaw was found in the AEP.
-  * :arrow_right: Rejected -- The Core Devs can decide to mark this AEP as Rejected at their discretion. E.g., a major, but uncorrectable, a flaw was found in the AEP.
-  * :arrow_right: Final -- Standards Track Core AEPs must be implemented in at least three viable Akash clients before it can be considered Final. When the implementation is complete and adopted by the community, the status will be changed to “Final.”
-* **Final** -- This AEP represents the current state-of-the-art. A Final AEP should only be updated to correct errata.
-
-Other exceptional statuses include:
-
-* **Active** -- Some Informational and Process AEPs may also have a status of “Active” if they are never meant to be completed. E.g., AEP 1 (this AEP).
-* **Abandoned** -- the original authors no longer pursue this AEP, or it may not be a (technically) preferred option anymore.
-  * :arrow_right: Draft -- Authors or new champions wishing to pursue this AEP can ask for changing it to Draft status.
-* **Rejected** -- An AEP that is fundamentally broken or a Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
+* **Draft** -- Once the first Draft has been merged, you may submit follow-up pull requests with further changes to your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
 * **Superseded** -- An AEP which was previously Final but is no longer considered state-of-the-art. Another AEP will be in Final status and reference the Superseded AEP. An AEP cannot move on from this state.
 
 
