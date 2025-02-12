@@ -11,16 +11,6 @@ updated: 2020-03-17
  clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be robust and must not complicate the protocol unduly.
 
 
-### Core AEPs
-
-
-These calls generally result in a "rough consensus" around what AEPs should be implemented. This "rough consensus" rests on the assumptions that AEPs are not contentious enough to cause a network split and that they are technically sound.
-
-### AEP Process
-
-Following is the process that a successful non-Core AEP will move along:
-
-```
 [ WIP ] -> [ DRAFT ] -> [ LAST CALL ] -> [ FINAL ]
 ```
 
