@@ -13,9 +13,6 @@ updated: 2020-03-17
 
 ### Core AEPs
 
-For Core AEPs, given that they require client implementations to be considered **Final** (see "AEPs Process" below), you will need to either provide an implementation for clients or convince clients to implement your AEP.
-
-The best way to get client implementers to review your AEP is to discuss it publicly on the [Discussion Board](https://github.com/orgs/akash-network/discussions) and present and discuss it live during the [Steering Committee](https://github.com/akash-network/community/tree/main/committee-steering) Meeting per the guidelines posted there for which discussions will be discussed. 
 
 These calls generally result in a "rough consensus" around what AEPs should be implemented. This "rough consensus" rests on the assumptions that AEPs are not contentious enough to cause a network split and that they are technically sound.
 
