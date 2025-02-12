@@ -1,0 +1,19 @@
+name: Trigger Spec Update
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "spec/**" # Only trigger when spec directory changes
+
+jobs:
+  notify-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Update Workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.WORKFLOW_PAT }} # Need a PAT with repo scope
+          repository: https://github.com/dharamveergit/akashnetworkwebsite # Replace with your docs repo
+          event-type: aep-spec-changed
