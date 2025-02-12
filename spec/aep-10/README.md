@@ -8,25 +8,6 @@ category: Economics
 created: 2020-04-01
 ---
 
-## Summary
-
-Offer an exponential cost reduction (10x-15x the market) as an extremely attractive incentive to tenants by subsidizing using Inflation
-
-## Motivation
-
-The early stages of the Akash market economy need to solve the demand-supply paradox of short-term undersupply to reach market equilibrium and unlock network effects.
-
-## Rationale
-
-To solve the demand-supply paradox, we can use the subsidies from inflation (i.e., borrowing from the future) as described in the framework "[Bootstrapping the Free Market By Borrowing From Future]."
-
-Akash employs an inflation model where a portion of block rewards can be captured by a subsidy pool that is distributed to achieve adoption goals depending on the stage of the network and involves stakeholders performing challenges to claim the subsidy. These subsidy distributions and claim challenges are governed using community proposals that are expected to evolve as the network grows. 
-
-## Parameters
-
-- `SUBSIDY_POOL_RATE`: Percentage of inflation to be captured for subsidies. The proposed rate at Genesis is 50%.
-
-## Specification
 
 In the first phase of Akash, we propose using "exponential cost savings" as the initial subsidy trigger. An exponential cost reduction (10x-15x the market) is an extremely attractive incentive for cloud users where cost remains a top industry priority for three years in a row — particularly to price-sensitive segments such as machine learning and big data.
 
