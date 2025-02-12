@@ -11,20 +11,6 @@ updated: 2020-03-17
  clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be robust and must not complicate the protocol unduly.
 
 
-[ WIP ] -> [ DRAFT ] -> [ LAST CALL ] -> [ FINAL ]
-```
-
-Following is the process that a successful Core AEP will move along:
-
-```
-[ IDEA ] -> [ DRAFT ] -> [ LAST CALL ] -> [ ACCEPTED ] -> [ FINAL ]
-```
-
-Each status change is requested by the AEP author and reviewed by the AEP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your AEP. The AEP editors will process these requests as per the conditions below.
-
-* **Idea** -- Once the champion has asked the Akash community whether an idea has any chance of support, they will write a draft AEP as a [pull request]. Consider including an implementation if this will aid people in studying the AEP.
-  * :arrow_right: Draft -- If agreeable, AEP editor will assign the AEP a number (generally the issue or PR number related to the AEP) and merge your pull request. The AEP editor will not unreasonably deny an AEP.
-  * :x: Draft -- Reasons for denying draft status include being too unfocused, too broad, duplication of effort, being technically unsound, not providing proper motivation or addressing backward compatibility, or not in keeping with the Akash philosophy.
 * **Draft** -- Once the first Draft has been merged, you may submit follow-up pull requests with further changes to your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
 * **Superseded** -- An AEP which was previously Final but is no longer considered state-of-the-art. Another AEP will be in Final status and reference the Superseded AEP. An AEP cannot move on from this state.
 
