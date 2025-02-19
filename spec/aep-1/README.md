@@ -8,20 +8,7 @@ discussions-to: https://github.com/ovrclk/aep/issues/1
 created: 2020-03-09
 updated: 2020-03-17
 ---
-your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
-* **Superseded** -- An AEP which was previously Final but is no longer considered state-of-the-art. Another AEP will be in Final status and reference the Superseded AEP. An AEP cannot move on from this state.
-
-
-## What belongs in a successful AEP?
-
-Each AEP should have the following parts:
-
-- Preamble - RFC 822 style headers containing metadata about the AEP, including the AEP number, a short descriptive title (limited to a maximum of 44 characters), and the author details. See [below](https://github.com/ovrclk/AEPs/blob/master/AEPSS/aep-1.md#aep-header-preamble) for details.
-- Abstract - A short (~200 word) description of the technical issue being addressed.
-- Motivation (*optional*) - The motivation is critical for AEPs that want to change the Akash protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the AEP solves. AEP submissions without sufficient motivation may be rejected outright.
-- Specification - The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations Akash platform.
-- Rationale - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g., how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during the discussion.
-- Backward Compatibility - All AEPs that introduce backward incompatibilities must include a section describing these incompatibilities and their severity. The AEP must explain how the author proposes to deal with these incompatibilities. AEP submissions without a sufficient backward compatibility treatise may be rejected outright.
+your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP atibilities must include a section describing these incompatibilities and their severity. The AEP must explain how the author proposes to deal with these incompatibilities. AEP submissions without a sufficient backward compatibility treatise may be rejected outright.
 - Test Cases - Test cases for implementation are mandatory for AEPs that are affecting consensus changes. Other AEPs can choose to include links to test cases if applicable.
 - Implementations - The implementations must be completed before any AEP is given the status "Final," but it need not be completed before the AEP is merged as a draft. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
 - Security Considerations - All AEPs must contain a section that discusses the security implications/considerations relevant to the proposed change. Include information that might be important for security discussions, surface risks, and can be used throughout the life cycle of the proposal. E.g., include security-relevant design decisions, concerns, important discussions, implementation-specific guidance and pitfalls, an outline of threats and risks, and how they are being addressed. AEP submissions missing the "Security Considerations" section will be rejected. An AEP cannot proceed to status "Final" without a Security Considerations discussion deemed sufficient by the reviewers.
