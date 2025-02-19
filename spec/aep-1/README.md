@@ -34,8 +34,6 @@ Each AEP should have the following parts:
 
 AEPs should be written in [markdown] format. Image files should be included in a subdirectory of the `assets` folder for that AEP as follows: `assets/aep-N` (where **N** is to be replaced with the AEP number). When linking to an image in the AEP, use relative links such as `../assets/aep-1/image.png`.
 
-## AEP Header Preamble
-
 Each AEP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style header preamble, preceded and followed by three hyphens (`---`). This header is also termed ["front matter" by Jekyll](https://jekyllrb.com/docs/front-matter/). The headers must appear in the following order. Headers marked with "\*" are optional and are described below. All other headers are required.
 
 `aep:` *AEP number* (this is determined by the AEP editor)
