@@ -8,10 +8,7 @@ discussions-to: https://github.com/ovrclk/aep/issues/1
 created: 2020-03-09
 updated: 2020-03-17
 ---
- clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be robust and must not complicate the protocol unduly.
-
-
-* **Draft** -- Once the first Draft has been merged, you may submit follow-up pull requests with further changes to your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
+your Draft until you believe the AEP to be mature and ready to proceed to the next status. An AEP in draft status must be implemented to  Core AEP that was rejected by the Core Devs and will not be implemented. An AEP cannot move on from this state.
 * **Superseded** -- An AEP which was previously Final but is no longer considered state-of-the-art. Another AEP will be in Final status and reference the Superseded AEP. An AEP cannot move on from this state.
 
 
