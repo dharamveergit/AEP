@@ -9,9 +9,6 @@ created: 2020-03-09
 updated: 2020-03-17
 ---
 
-## What is an AEP?
-
-AEP stands for Akash Enhancement Proposal. An AEP is a design document providing information to the Akash community, or describing a new feature for Akash or its processes or environment. The AEP should provide a concise technical specification of the function and a rationale for the feature. The AEP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## AEP Rationale
 
