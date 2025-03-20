@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Trigger AEP Spec Update in akash-network/website repo
         run: |
-          repo_owner="akash-network"
-          repo_name="website"
+          repo_owner="dharamveergit"
+          repo_name="akashnetworkwebsite"
           event_type="aep-repo-trigger"
 
           STATUS=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
