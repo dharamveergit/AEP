@@ -3,7 +3,7 @@ name: Trigger AEP Spec Update
 on:
   push:
     branches:
-      - main
+      - m2
 
 jobs:
   dispatch-update-specs:
