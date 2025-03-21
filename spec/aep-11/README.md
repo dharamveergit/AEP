@@ -10,10 +10,7 @@ estimated-completion: 2026-01-01
 roadmap: major
 ---
 
-## Summary
 
-
-MSM enables creators of software to generate meaningful income while sustaining improving their work and keep software open. Today, the value capture is at a massive imbalance where Cloud Service Providers (CSPs) are the biggest benefactors. MSM balances this asymmetry.
 
 ## Rationale
 
