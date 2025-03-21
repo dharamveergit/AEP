@@ -10,14 +10,7 @@ updated: 2020-03-17
 ---
 
 
-c Model with regards to Staking or Subsidy distribution.
-  - **Interface** - includes improvements around client API specifications and standards and/ or to the primary deployment clients (Akash CLI and Akash Console). 
-
-- A **Meta AEP** describes a process surrounding Akash or proposes a change to (or an event in) a process. Process AEPs are like Standards Track AEPs but apply to areas other than the Akash protocol itself. They may propose an implementation, but not to Akash's codebase; they often require community consensus; unlike Informational AEPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in Akash development. Any meta-AEP is also considered a Process AEP.
-
-- An **Informational AEP** describes an Akash design issue, or provides general guidelines or information to the AEPs community, but does not propose a new feature. Informational AEPs do not necessarily represent AEPs community consensus or a recommendation, so users and implementers are free to ignore Informational AEPs or follow their advice.
-
-It is highly recommended that a single AEP contain a single key proposal or new idea. The more focused the AEP, the more successful it tends to be. 
+d that a single AEP contain a single key proposal or new idea. The more focused the AEP, the more successful it tends to be. 
 
 An AEP must meet specific minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement. The proposed implementation, if applicable, must be robust and must not complicate the protocol unduly.
 
