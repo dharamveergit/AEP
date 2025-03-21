@@ -14,9 +14,7 @@ roadmap: major
 
 ## Summary
 
-Trusted Execution Environment (TEE) guarantees code and data loaded inside to be protected with respect to confidentiality and integrity that is enforced at the processor level.
 
-## Motivation
 
 Providers execute a Tenant's workload. Providers have physical access to the machine executing a tenant’s workload thereby can gain access to sensitive information by inspecting the memory. The unprotected access presents a challenge to secure sensitive information when running on an untrusted node.
 
