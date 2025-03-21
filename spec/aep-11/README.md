@@ -12,9 +12,6 @@ roadmap: major
 
 ## Summary
 
-A permissionless market for Managed Backend Services (such as Databases) to reduce the operational burden for Tenants. 
-
-## Motivation
 
 The Managed Service Market (MSM) strengthens the Akash ecosystem by unlocking a new wave of service providers and enhances the liquidity of AKT.
 
