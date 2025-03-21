@@ -12,7 +12,6 @@ roadmap: major
 
 
 
-## Rationale
 
 Most modern applications stacks comprise of a multi-tier application-services stack (such as databases, caches, etc). 
 
