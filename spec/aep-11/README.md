@@ -13,10 +13,6 @@ roadmap: major
 
 
 
-Most modern applications stacks comprise of a multi-tier application-services stack (such as databases, caches, etc). 
-
-Standard services such as databases, when managed by specialized service providers that understand how to scale and secure the service being used by the tenant, significantly simplifies operations and thereby costs for the tenants.
-
 ### Goals
 
 - Primitives for frictionless integration with - backend services
