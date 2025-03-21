@@ -10,13 +10,7 @@ updated: 2020-03-17
 ---
 
 
-
-
-There are three types of AEP:
-
-- A **Standard** describes any change that affects most or all Akash implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using Akash. Furthermore, Standard AEPs can be broken down into the following categories. Standards Track AEPs consist of three parts, a design document, implementation, and finally if warranted an update to the formal specification.
-  - **Core** - improvements requiring a consensus fork, as well as changes that are not necessarily consensus critical but may be relevant to "core dev" discussions.
-  - **Economics** - includes improvements to Akash Network's Economic Model with regards to Staking or Subsidy distribution.
+c Model with regards to Staking or Subsidy distribution.
   - **Interface** - includes improvements around client API specifications and standards and/ or to the primary deployment clients (Akash CLI and Akash Console). 
 
 - A **Meta AEP** describes a process surrounding Akash or proposes a change to (or an event in) a process. Process AEPs are like Standards Track AEPs but apply to areas other than the Akash protocol itself. They may propose an implementation, but not to Akash's codebase; they often require community consensus; unlike Informational AEPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in Akash development. Any meta-AEP is also considered a Process AEP.
